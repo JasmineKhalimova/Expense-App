@@ -37,4 +37,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Technical Terms
 
+- JSX sand for JavaScript XML allows us to write HTML in React and makes it easier to write and add HTML in React. 
+
+- toISOString() outputs date in a string format
 
